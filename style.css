@@ -1,0 +1,30 @@
+body{
+  font-family: sans-serif;
+  text-align: center;
+  background-color:#347deb;
+  font-size: 25px;
+}
+
+/*Зроби цей сайт красивим 😉*/
+img{
+    width:200px;
+}
+h1{
+    color:#9b34eb;
+
+}
+p{
+    color:black;
+}
+h2{
+    background-color:#34d9eb;
+}
+
+main{
+    margin-right: 50px ;
+    margin-left: 50px ;
+}
+
+a{
+    color: navy;
+}
